@@ -1,6 +1,6 @@
-# Scott’s Stupid Easy Excel Tips and Tricks
-### _The Windows Edition_
-### Hook up your Excel.
+# Scott’s Stupid Easy Excel Configuration
+### <kbd>Windows Edition</kbd> 
+### Make Excel better, faster, stronger. Set it up for success.
 
 ## Make Excel (and Windows) snappier by disabling animations
 Windows adds some subtle animations to Excel (and other applications). You may not be able to put your finger on it, but it makes everything feel slower. Disabling these animations instantly makes Excel feel snappier. 
@@ -48,4 +48,15 @@ This is one of the biggest tips I have for you if you didn't know about it. The 
 Right click anywhere on the status bar. Enable everything you want.
 
 ## Customize the Home Ribbon — Load it up with only useful functions
+The *HOME* tab of your ribbon is the default tab and the most used, of course. Get rid of stuff you don't use and fill it with stuff that you _do_ use. There's a small work around to make this work. 
+
+What you have | screeny
+--- | ---
+
+What you could have | screeny
+--- | ---
+
+What I have (Macros!) | screeny
+--- | ---
+
 
