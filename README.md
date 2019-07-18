@@ -6,11 +6,19 @@ Windows adds some subtle animations to Excel (and other applications). You may n
 #### Disable in-window animations
 Selecting cells and scrolling through cells are “animated”. Disabling this will make Excel usage feel way snappier. You’ll never look back after disabling it.
 
-![Scrolling with animations turned on](/images/scroll_before.gif)[]()
-![Scrolling with animations turned off](https://github.com/ScottSchaen/stupid-easy-excel-tips/raw/master/images/scroll_before.gif)[]()
+Animations | No Animations
+--- | ---
+![Scrolling with animations turned on](/images/scroll_before.gif)[]() | ![Scrolling with animations turned off](/images/scroll_after.gif)[]()
+
+_*Test it out, you'll love it. The screenshots may not do it justice.*_
+
 
 #### Disable animations when minimizing and maximizing windows
 This is less of an Excel improvement and an overall Windows improvement. Like above, it’s subtle but will make your computer feel faster.
+
+Animations | No Animations
+--- | ---
+![Minimizing and maximizing windows with animations turned on](/images/window_before.gif)[]() | ![Minimizing and maximizing windows with animations turned off](/images/window_after.gif)[]()
 
 <kbd>WIN</kbd> → Search for `Adjust the appearance and performance of Windows`. Uncheck the first two options under `Visual Effects`
 
