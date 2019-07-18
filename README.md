@@ -6,10 +6,13 @@ Windows adds some subtle animations to Excel (and other applications). You may n
 #### Disable in-window animations
 Selecting cells and scrolling through cells are “animated”. Disabling this will make Excel usage feel way snappier. You’ll never look back after disabling it.
 
+![alt text](https://github.com/ScottSchaen/images/scroll_before.png "Scrolling with animations turned on")
+![alt text](https://github.com/ScottSchaen/images/scroll_after.png "Scrolling with animations turned off")
+
 #### Disable animations when minimizing and maximizing windows
 This is less of an Excel improvement and an overall Windows improvement. Like above, it’s subtle but will make your computer feel faster.
 
-Windows → Search for “Adjust the appearance and performance of Windows”. Uncheck the first two options under “Visual Effects”
+<kbd>WIN</kbd> → Search for `Adjust the appearance and performance of Windows`. Uncheck the first two options under `Visual Effects`
 
 ## Open Excel straight to a spreadsheet - Disable the welcome splash screen
 It’s personal preference, but if you’re like me you want to get straight to business with a fresh spreadsheet.
