@@ -71,3 +71,11 @@ What I have (Macros!):
 * Add `Freeze panes`, otherwise you have to navigate to the `View` tab for this very useful feature.
 * Check out `Populate Commands`. Don't worry if a command already exists in another tab. For instance `PivotTable` is a good one to have handy. 
 * It's easy to `reset customizations` if you don't like it. In the customizer you can "Choose commands from: `Main Tabs`" to see what you're missing from the default. You can also `Export all customizations`
+
+**For the Power Users:**
+You can add macros as commands and they will look and feel just like native commands. You can do about anything with VBA macros. I'll be sharing some of my favorites soon.
+
+##Did I miss anything? Let me know!##
+
+**Rock on,
+Scott**
