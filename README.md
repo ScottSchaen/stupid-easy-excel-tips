@@ -75,7 +75,7 @@ What I have (Macros!):
 **For the Power Users:**
 You can add macros as commands and they will look and feel just like native commands. You can do about anything with VBA macros. I'll be sharing some of my favorites soon.
 
-##Did I miss anything? Let me know!##
+## Did I miss anything? Let me know!
 
 **Rock on,
 Scott**
