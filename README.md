@@ -3,6 +3,8 @@
 ### Configuring your Excel for a better, faster, stronger experience 
 #### *in 5 stupid easy steps*
 
+- - - -
+
 ## 1. Make Excel (and Windows) snappier by disabling animations
 Windows adds some subtle animations to Excel (and other applications). You may not be able to put your finger on it, but it makes everything feel slower. Disabling these animations instantly makes Excel feel snappier. 
 
@@ -24,6 +26,7 @@ Animations | No Animations
 
 **How to do it:** <kbd>WIN</kbd> → Search for `Adjust the appearance and performance of Windows`. Uncheck `Animate windows when minimizing and maximizing`.
 
+- - - -
 
 ## 2. Opening Excel should take you to a new spreadsheet, not the welcome splash screen
 This one may be personal preference, but chances are when you open Excel you want to get straight to business with a fresh spreadsheet. If you're frequently opening recent files, you may want to leave it as is. 
@@ -34,6 +37,7 @@ Welcome Start Screen | Straight-to-business Worksheet
 
 **How to do it:** `File` → `Options` → Uncheck “Show the Start screen when this application starts”
 
+- - - -
 
 ## 3. Make the Quick Access Toolbar useful.
 By default, you’re multiple clicks away from opening files, creating new files, or printing. That's not right! Add all of these features and more to the quick access toolbar. They will always be there for you.
@@ -42,6 +46,7 @@ By default, you’re multiple clicks away from opening files, creating new files
 
 **How to do it:** Click the dropdown in the Quick Access toolbar (on right) or right click anywhere on the ribbon and click `Customize Quick Access Toolbar`
 
+- - - -
 
 ## 4. Use the Status Bar — Don’t bother with unnecessary formulas
 This is one of the biggest timesavers I have for you if you didn't already know about it. The Status Bar on the bottom right of the Excel Window is the easiest and fastest way to summarize data you’ve selected. You can very quickly get a feel for a dataset by utilizing this alone. Enable all of the calculations and immediately you’ll know the min and max values in the selection, the sum, the average, a count of non-empty cells, and a count of numbers. You can select a whole column and you don't need to worry about column headers and empty cells throwing off your data.
@@ -50,6 +55,7 @@ This is one of the biggest timesavers I have for you if you didn't already know 
 
 Right click anywhere on the status bar. Enable everything you want.
 
+- - - -
 
 ## 5. Customize the Home Ribbon — Load it up with *only* useful functions
 The *HOME* tab of your ribbon is the default tab and of course your most used tab. Get rid of stuff you don't use and fill it with stuff that you _do_ use. There's a small work around to get this right. 
@@ -78,9 +84,10 @@ What I have (Macros!):
 
 **For the Power Users:**
 You can add macros as commands/buttons and they will look and feel native. You can do about anything with VBA macros. I'll be sharing some of my favorites soon.
-
+  
+- - - -
 
 ## Did I miss anything? Let me know!
 
-**Rock on,
-Scott**
+**Rock on,**  
+**Scott**
