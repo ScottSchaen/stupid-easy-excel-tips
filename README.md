@@ -88,7 +88,7 @@ You can add macros as commands/buttons and they will look and feel native. You c
 - - - -
 
 ## Did I miss anything?
-Yes, I definitely did. Propose a file change by forking this project or find me on [linkedin](https://www.linkedin.com/in/scottschaen/) and shoot me a note.
+Yes, I definitely did. Propose a file change by forking this project or find me on [LinkedIn](https://www.linkedin.com/in/scottschaen/) and shoot me a note.
 
 **Rock on,**  
 **Scott**
