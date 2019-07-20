@@ -40,7 +40,7 @@ Welcome Start Screen | Straight-to-business Worksheet
 - - - -
 
 ## 3. Make the Quick Access Toolbar useful.
-By default, you’re multiple clicks away from opening files, creating new files, or printing. That's not right! Add all of these features and more to the quick access toolbar. They will always be there for you.
+By default, you’re multiple clicks away from opening files, creating new files, or printing. That's not right! Add all of these features and more to the quick access toolbar. They will always be there for you. This also works in other Microsoft applications!
 
 <img src="/images/quick_access.png" width="500px" />
 
@@ -87,7 +87,8 @@ You can add macros as commands/buttons and they will look and feel native. You c
   
 - - - -
 
-## Did I miss anything? Let me know!
+## Did I miss anything?
+Yes, I definitely did. Propose a file change by forking this project or find me on [linkedin](https://www.linkedin.com/in/scottschaen/) and shoot me a note.
 
 **Rock on,**  
 **Scott**
