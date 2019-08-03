@@ -1,11 +1,13 @@
 # Scott’s Stupid Easy Excel Tips and Tricks
-### <kbd>Windows Edition</kbd> 
+### <kbd>Windows</kbd> and <kbd>Mac</kbd>  
 ### Configuring your Excel for a better, faster, stronger experience 
 #### *in 5 stupid easy steps*
 
 - - - -
 
 ## 1. Make Excel (and Windows) snappier by disabling animations
+<kbd>Windows Only</kbd>  
+
 Windows adds some subtle animations to Excel (and other applications). You may not be able to put your finger on it, but it makes everything feel slower. Disabling these animations instantly makes Excel feel snappier. 
 
 #### a) Disable worksheet animations
@@ -29,6 +31,8 @@ Animations | No Animations
 - - - -
 
 ## 2. Opening Excel should take you to a new spreadsheet, not the welcome splash screen
+<kbd>Windows</kbd> and <kbd>Mac</kbd>  
+
 This one may be personal preference, but chances are when you open Excel you want to get straight to business with a fresh spreadsheet. If you're frequently opening recent files, you may want to leave it as is. 
 
 Welcome Start Screen | Straight-to-business Worksheet
@@ -42,24 +46,32 @@ Welcome Start Screen | Straight-to-business Worksheet
 - - - -
 
 ## 3. Make the Quick Access Toolbar useful.
+<kbd>Windows</kbd> and <kbd>Mac</kbd>  
+
 By default, you’re multiple clicks away from opening files, creating new files, or printing. That's not right! Add all of these features and more to the quick access toolbar. They will always be there for you. This also works in other Microsoft applications!
 
 <img src="/images/quick_access.png" width="500px" />
 
-**How to do it:** Click the dropdown in the Quick Access toolbar (on right) or right click anywhere on the ribbon and click `Customize Quick Access Toolbar`
+**How to do it:** 
+* **Windows**: Click the dropdown in the Quick Access toolbar (on right) or right click anywhere on the ribbon and click `Customize Quick Access Toolbar`
+* **Mac**: Click the dropdown in the Quick Access toolbar (on right) or `Excel` → `Preferences` → `Ribbon & Toolbar` → `Quick Access Toolbar`
 
 - - - -
 
 ## 4. Use the Status Bar — Don’t bother with unnecessary formulas
+<kbd>Windows</kbd> and <kbd>Mac</kbd>  
+
 This is one of the biggest timesavers I have for you if you didn't already know about it. The Status Bar on the bottom right of the Excel Window is the easiest and fastest way to summarize data you’ve selected. You can very quickly get a feel for a dataset by utilizing this alone. Enable all of the calculations and immediately you’ll know the min and max values in the selection, the sum, the average, a count of non-empty cells, and a count of numbers. You can select a whole column and you don't need to worry about column headers and empty cells throwing off your data.
 
 <img src="/images/status_bar.png" width="600px" />
 
-Right click anywhere on the status bar. Enable everything you want.
+**How to do it:** Right click anywhere on the status bar. Enable everything you want.
 
 - - - -
 
 ## 5. Customize the Home Ribbon — Load it up with *only* useful functions
+<kbd>Windows</kbd> and <kbd>Mac</kbd>  
+
 The *HOME* tab of your ribbon is the default tab and of course your most used tab. Get rid of stuff you don't use and fill it with stuff that you _do_ use. There's a small work around to get this right. 
 
 What you have (default):
@@ -72,7 +84,8 @@ What I have (Macros!):
 ![Ribbon with Macros](/images/ribbon_me.png)[]()
 
 **How to do it:**
-1. Right click anywhere on the ribbon and select `Customize the Ribbon...`
+1. **Windows:** Right click anywhere on the ribbon and select `Customize the Ribbon...`
+1. **Mac:** `Excel` → `Preferences` → `Ribbon & Toolbar`
 2. The catch: You have to remove entire groups from the `Home` ribbon, like the `Cells` group. You can't remove one command/button from a group currently.
 3. Add a new group, i.e. `Useful Stuff` to the `Home` tab and add every command/button you like.
 
