@@ -35,7 +35,9 @@ Welcome Start Screen | Straight-to-business Worksheet
 --- | ---
 ![Open to Excel Splash](/images/welcome_splash.png)[]() | ![Open to Worksheet](/images/new_sheet.png)[]()
 
-**How to do it:** `File` → `Options` → Uncheck “Show the Start screen when this application starts”
+**How to do it:** 
+* **Windows**: `File` → `Options` → Uncheck “Show the Start screen when this application starts”
+* **Mac**: `Excel` → `Preferences` → `General` → Uncheck "Show Workbook Gallery when opening Excel"
 
 - - - -
 
