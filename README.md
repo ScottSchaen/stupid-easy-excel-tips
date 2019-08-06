@@ -1,5 +1,4 @@
 # Scott’s Stupid Easy Excel Tips and Tricks
-<kbd>Windows</kbd> & <kbd>Mac</kbd>  
 ### Configuring your Excel for a better, faster, stronger experience 
 #### *in 5 stupid easy steps*
 
