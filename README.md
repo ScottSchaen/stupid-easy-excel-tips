@@ -3,6 +3,14 @@
 ### Configuring your Excel for a better, faster, stronger experience 
 #### *in 5 stupid easy steps*
 
+1. [Make Excel (and Windows) snappier by disabling animations](#1-make-excel-and-windows-snappier-by-disabling-animations) <kbd>Windows Only</kbd>
+2. [Opening Excel should take you to a new spreadsheet, not the welcome splash screen](#2-opening-excel-should-take-you-to-a-new-spreadsheet-not-the-welcome-splash-screen) <kbd>Windows</kbd><kbd>Mac</kbd>  
+3. [Make the Quick Access Toolbar useful](#3-make-the-quick-access-toolbar-useful) <kbd>Windows</kbd><kbd>Mac</kbd>  
+4. [Use the Status Bar — Don’t bother with unnecessary formulas](#4-use-the-status-bar--dont-bother-with-unnecessary-formulas) <kbd>Windows</kbd><kbd>Mac</kbd>  
+5. [Customize the Home Ribbon — Load it up with *only* useful functions](#5-customize-the-home-ribbon--load-it-up-with-only-useful-functions) <kbd>Windows</kbd><kbd>Mac</kbd>  
+
+Bonus: [MACROS!!!](https://github.com/ScottSchaen/excel-vba-macros)
+
 - - - -
 
 ## 1. Make Excel (and Windows) snappier by disabling animations
@@ -98,7 +106,7 @@ What I have (Macros!):
 * It's easy to `reset customizations` if you don't like it. In the customizer you can "Choose commands from: `Main Tabs`" to see what you're missing from the default. You can also `Export all customizations`
 
 **For the Power Users:**
-You can add macros as commands/buttons and they will look and feel native. You can do about anything with VBA macros. I'll be sharing some of my favorites soon.
+You can add macros as commands/buttons and they will look and feel native. You can do about anything with VBA macros. Check out my [Excel VBA Macros](https://github.com/ScottSchaen/excel-vba-macros) and a How-To in my [Github](https://github.com/ScottSchaen/excel-vba-macros)
   
 - - - -
 
